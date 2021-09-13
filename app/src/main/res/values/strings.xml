@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RecipeBook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Inserisci l\'email..</string>
+    <string name="password">Inserisci la password..</string>
+    <string name="accedi">Accedi</string>
+    <string name="login">Login</string>
+    <string name="nuovo_utente_registrati">Nuovo utente? Registrati!</string>
+    <string name="registrazione">Registrazione</string>
+    <string name="inserisci_il_nome">Inserisci il nome..</string>
+    <string name="inserisci_il_cognome">Inserisci il cognome..</string>
+    <string name="registrati">Registrati</string>
+    <string name="gi_registrato_effettua_il_login">Già registrato? Effettua il login!</string>
+    <string name="benvenuto">Benvenuto</string>
+    <string name="dettaglio_prodotto">Dettaglio ricetta</string>
+    <string name="add_button">add button</string>
+    <string name="inserisci_il_titolo_della_ricetta">Inserisci il titolo della ricetta..</string>
+    <string name="inserisci_la_descrizione_della_ricetta">Inserisci la descrizione della ricetta..</string>
+    <string name="aggiungi_la_nuova_ricetta">Aggiungi la nuova ricetta</string>
+    <string name="nuova_ricetta">Nuova ricetta</string>
+</resources>
